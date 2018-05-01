@@ -1,9 +1,7 @@
 # Assembly-Language-Programs
 
 --First Install Tasm and Keil Softares
-
-->[Installing Tasm] (https://www.youtube.com/watch?v=rwn4snI2xf0)
-
+->[Installing Tasm](https://www.youtube.com/watch?v=rwn4snI2xf0)
 --Basic Commands For Tasm
 
 1.To open a file having name filename
